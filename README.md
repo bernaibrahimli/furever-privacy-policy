@@ -188,7 +188,7 @@ To protect your device data:
 
 If you have questions or concerns about this Privacy Policy, please contact us:
 
-**Email:** support@fureverapp.com  
+**Email:** bernaibrahimli@gmail.com 
 **GitHub Support:** https://github.com/bernaibrahimli/furever-support  
 **Response Time:** We aim to respond within 5 business days
 
