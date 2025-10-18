@@ -2,7 +2,7 @@
 
 **Last Updated:** October 18, 2025  
 **Effective Date:** October 18, 2025  
-**Version:** 1.2
+**Version:** 1.1
 
 ## Introduction
 
@@ -242,4 +242,4 @@ You may lodge a complaint with your local data protection authority if you belie
 
 **Furever - Keep Your Pets Happy and Healthy** 🐾
 
-*This privacy policy was last updated on October 18, 2025 for App Version 1.2 with subscription features*
+*This privacy policy was last updated on October 18, 2025 for App Version 1.1 with subscription features*
